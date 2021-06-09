@@ -49,7 +49,7 @@
 	mysqli_close($link);
 	?>
 	<div>
-		<h2><a href="http://estudiopuntoylinea.com/QR/index.php">Regresar</a></h2>
+		<h2><a href="http://dev.dasac.org">Regresar</a></h2>
 	</div>
 	</div>
 
