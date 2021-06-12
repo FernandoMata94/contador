@@ -5,6 +5,10 @@ html {
   box-sizing: inherit;
 }
 
+a {
+  color: white !important;
+}
+
 body{
   margin: 0;
   background-image: url("../img/fondo.jpg");
